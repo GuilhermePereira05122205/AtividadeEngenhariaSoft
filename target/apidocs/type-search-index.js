@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.jogodadosengsoft","l":"Dado"},{"p":"com.mycompany.jogodadosengsoft","l":"Jogador"},{"p":"com.mycompany.jogodadosengsoft","l":"Jogo"},{"p":"com.mycompany.jogodadosengsoft","l":"JogoDadosEngSoft"},{"p":"com.mycompany.jogodadosengsoft","l":"JogoDadosGui"}];updateSearchResults();
